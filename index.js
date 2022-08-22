@@ -1,4 +1,4 @@
-#!/usr/bin/env/node
+#!/usr/bin/env node
 var shell = require('shelljs');
 
 var $1 = process.argv[2];
