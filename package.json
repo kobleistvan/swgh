@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/kobleistvan/swgh/issues"
   },
-  "homepage": "https://github.com/kobleistvan/swgh#readme"
+  "homepage": "https://github.com/kobleistvan/swgh#readme",
+  "dependencies": {
+    "shelljs": "^0.8.5"
+  }
 }
