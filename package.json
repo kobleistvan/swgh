@@ -1,0 +1,27 @@
+{
+  "name": "swgh",
+  "version": "1.0.0",
+  "description": "SWGH - Split With Git History. An NPX command which allows you to quickly split a file into a copy of it, retaining its git history.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobleistvan/swgh.git"
+  },
+  "keywords": [
+    "git",
+    "history",
+    "split",
+    "clone",
+    "copy",
+    "retain"
+  ],
+  "author": "Köble István",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kobleistvan/swgh/issues"
+  },
+  "homepage": "https://github.com/kobleistvan/swgh#readme"
+}
